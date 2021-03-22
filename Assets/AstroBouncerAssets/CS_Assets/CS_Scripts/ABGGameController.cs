@@ -172,7 +172,7 @@ public class ABGGameController : MonoBehaviour
         
         //time Over
         limitTime -= Time.deltaTime;
-        timeText.text = "Time; " + Mathf.Round(limitTime);
+        timeText.text = "Time: " + Mathf.Round(limitTime);
         if(limitTime<=0)
         {
             limitTime = 0;

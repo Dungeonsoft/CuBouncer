@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/AstroBouncerAssets/CS_Assets/CS_Scenes/CS_StartMenu.unity
     guid: ad3d0c0c5e6668a4aaf35456d6113674
+  - enabled: 1
+    path: Assets/AstroBouncerAssets/CS_Assets/CS_Scenes/SplashScene.unity
+    guid: c6b37bc3e30850c489b7e878ba600d50
   m_configObjects: {}

@@ -261,6 +261,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 134626, guid: a8b1f388bac8c76499f177f98d5671fa, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 11400010, guid: a8b1f388bac8c76499f177f98d5671fa, type: 3}
       propertyPath: soundObject
       value: 
